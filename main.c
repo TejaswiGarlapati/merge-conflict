@@ -1,3 +1,4 @@
+
 pseudo code
 {
 Initial Function()
@@ -9,12 +10,8 @@ Initial Security()
 {
  //Sample Code
 }
-Updated Security()
+Feature2()
 {
- //Sample Code for assignment
-}
-  Updated Security()
-{
- //Sample Code for assignment
+ //updated from local feature2
 }
 }
