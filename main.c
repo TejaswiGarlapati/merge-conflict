@@ -9,7 +9,12 @@ Initial Security()
 {
  //Sample Code
 }
-
-
-
+Updated Security()
+{
+ //Sample Code for assignment
+}
+  Updated Security()
+{
+ //Sample Code for assignment
+}
 }
